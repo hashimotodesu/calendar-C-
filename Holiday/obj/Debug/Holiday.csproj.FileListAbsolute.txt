@@ -1,0 +1,10 @@
+C:\Users\yakku\source\repos\Holiday\Holiday\bin\Debug\Holiday.exe.config
+C:\Users\yakku\source\repos\Holiday\Holiday\bin\Debug\Holiday.exe
+C:\Users\yakku\source\repos\Holiday\Holiday\bin\Debug\Holiday.pdb
+C:\Users\yakku\source\repos\Holiday\Holiday\obj\Debug\Holiday.csproj.AssemblyReference.cache
+C:\Users\yakku\source\repos\Holiday\Holiday\obj\Debug\Holiday.Form1.resources
+C:\Users\yakku\source\repos\Holiday\Holiday\obj\Debug\Holiday.Properties.Resources.resources
+C:\Users\yakku\source\repos\Holiday\Holiday\obj\Debug\Holiday.csproj.GenerateResource.cache
+C:\Users\yakku\source\repos\Holiday\Holiday\obj\Debug\Holiday.csproj.CoreCompileInputs.cache
+C:\Users\yakku\source\repos\Holiday\Holiday\obj\Debug\Holiday.exe
+C:\Users\yakku\source\repos\Holiday\Holiday\obj\Debug\Holiday.pdb
